@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-07-16T10:01:17+0800",
+  "generation_id": "6a0047ecb939a2b119aef75ef1d29d9bd1a4c9332e2452c7430d6829cd195e09",
+  "inputs": {
+    "model_architecture_gpt_source.png": "ae1c4b84da47e0adc032d65e8b5c1e890022373367dec30351fda776822587ef",
+    "scripts/figures/render_public_figures.py": "4d80f1917164137e27e712e38c5b6fe359c58e6825131979c14fdfb32f038c02",
+    "training_curve_source.csv": "648dacda569844928b9efef527357ef2789bbdc4f0e83b7ac275e37160f58e12",
+    "training_status.json": "ecabfdc1738bc9c311188a9ca322bd61b96280544a557ac8c5b90b4395cbfe42"
+  },
+  "outputs": {
+    "model_architecture_gpt.pdf": "7c31afa4f8630cd07feefd15fc31b14d725a3ac6c9cd0e15e7d01cb58998eeda",
+    "model_architecture_gpt.png": "ae1c4b84da47e0adc032d65e8b5c1e890022373367dec30351fda776822587ef",
+    "model_architecture_python.pdf": "c00458c3ab857f47c1d3c33d01230faf51e39376356bd403d10ab6dc065ac42e",
+    "model_architecture_python.png": "f4e4b45087f28d0d39a5cd5f74b7b688b7446f4de2f65823bfa66751225c1343",
+    "training_progress.pdf": "02fd6c9ecd3b198a09d69b8d6ad459e2cb910ce1bebd8bc4063540d90a615b09",
+    "training_progress.png": "becfceb0c3f79d9901431a0967ee03742a6a470d3b68f77254e230638f4b1cd2"
+  },
+  "schema_version": 1,
+  "status": "READY"
+}
