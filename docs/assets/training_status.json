@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-16T10:01:17+0800",
+  "stage0_status": "COMPLETE",
+  "stage1_governance_authorized": true,
+  "stage2_data_promotion_authorized": false,
+  "formal_test_access_authorized": false,
+  "gpu_or_large_download_authorized": false,
+  "model_training_runs": 0,
+  "optimizer_updates": 0,
+  "gpu_hours": 0,
+  "checkpoints": 0,
+  "training_curve_rows": 0,
+  "note": "No model training has started; figures contain no simulated metric points."
+}

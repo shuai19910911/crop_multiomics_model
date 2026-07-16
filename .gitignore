@@ -1,0 +1,50 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local runtime artifacts
+logs/
+outputs/
+checkpoints/
+data/
+reports/
+*.log
+*.out
+*.err
+
+# Raw omics and model artifacts
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+*.h5ad
+*.parquet
+*.feather
+*.vcf
+*.vcf.gz
+*.bcf
+*.fa
+*.fasta
+*.fq
+*.fastq
+*.fastq.gz
+*.bam
+*.cram
+*.bw
+
+# Credentials and local config
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
